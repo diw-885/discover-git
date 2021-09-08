@@ -8,11 +8,13 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 class="green">Voir Github WF3</h1>
+    <header>
+        <ul>
+            <li>Accueil</li>
+        </ul>
+    </header>
 
-    <ul>
-        <li>Accueil</li>
-    </ul>
+    <h1 class="blue red green">Voir Github WF3</h1>
 
     <footer class="footer-copyright">© 2021 Copyright</footer>
 </body>
