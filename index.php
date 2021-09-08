@@ -12,5 +12,7 @@
     <ul>
         <li>Accueil</li>
     </ul>
+
+    <footer class="footer-copyright">© 2021 Copyright</footer>
 </body>
 </html>
