@@ -12,5 +12,7 @@
     <ul>
         <li>Accueil</li>
     </ul>
+
+    <footer style="background-color: #000; color: #FFF; height: 8rem; width: 100%; text-align: center;">© 2021 Copyright</footer>
 </body>
 </html>
