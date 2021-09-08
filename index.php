@@ -7,10 +7,14 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 class="blue">Voir Github By Thomas</h1>
+    <header>
+        <ul>
+            <li>Accueil</li>
+        </ul>
+    </header>
 
-    <ul>
-        <li>Accueil</li>
-    </ul>
+    <h1 class="blue red">Voir Github By Thomas</h1>
+
+    <footer></footer>
 </body>
 </html>
