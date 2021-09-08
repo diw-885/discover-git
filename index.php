@@ -8,5 +8,9 @@
 </head>
 <body>
     <h1>Découvrir Git</h1>
+
+    <ul>
+        <li>Accueil</li>
+    </ul>
 </body>
 </html>
