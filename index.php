@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
@@ -13,8 +14,8 @@
         </ul>
     </header>
 
-    <h1 class="blue red">Voir Github By Thomas</h1>
+    <h1 class="blue red green">Voir Github WF3</h1>
 
-    <footer></footer>
+    <footer class="footer-copyright">© 2021 Copyright</footer>
 </body>
 </html>
