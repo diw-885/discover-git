@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 class="blue">Voir GitHub</h1>
+    <h1 class="blue">Voir Github By Thomas</h1>
 
     <ul>
         <li>Accueil</li>
